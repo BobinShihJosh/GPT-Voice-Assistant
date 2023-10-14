@@ -14,7 +14,7 @@ const client = new textToSpeech.TextToSpeechClient();
 const { Configuration, OpenAIApi } = require("openai");
 
 const configuration = new Configuration({
-  apiKey: "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",
+  apiKey: " ",
 });
 
 const openai = new OpenAIApi(configuration);
