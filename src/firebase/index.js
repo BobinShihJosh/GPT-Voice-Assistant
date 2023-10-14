@@ -10,7 +10,7 @@ import { getFunctions } from 'firebase/functions';
 
 // Replace this with your Firebase SDK config snippet
 const firebaseConfig = {
-  apiKey: "AIzaSyBI6e-Uv5xM1V9RsvFFJrgHyD6nCnfROyY",
+  apiKey: " ",
   authDomain: "gptbot-f52d4.firebaseapp.com",
   projectId: "gptbot-f52d4",
   storageBucket: "gptbot-f52d4.appspot.com",
